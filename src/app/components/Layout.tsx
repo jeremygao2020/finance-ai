@@ -21,7 +21,7 @@ export function Layout() {
             </div>
             <div>
               <div className="text-sm text-white font-semibold leading-tight">AI记账标注</div>
-              <div className="text-[10px] text-white/40 leading-tight mt-0.5">金蝶云星空</div>
+              <div className="text-[10px] text-white/40 leading-tight mt-0.5">AI workbench</div>
             </div>
           </div>
         </div>
